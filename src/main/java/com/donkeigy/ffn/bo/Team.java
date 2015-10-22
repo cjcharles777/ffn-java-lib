@@ -1,4 +1,4 @@
-package com.donkeigy.bo;
+package com.donkeigy.ffn.bo;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

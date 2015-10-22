@@ -1,5 +1,5 @@
-import com.donkeigy.bo.Team;
-import com.donkeigy.webservice.FFNAPIWebService;
+import com.donkeigy.ffn.bo.Team;
+import com.donkeigy.ffn.webservice.FFNAPIWebService;
 import static org.junit.Assert.assertEquals;
 
 import java.util.List;
